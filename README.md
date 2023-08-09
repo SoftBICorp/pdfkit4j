@@ -12,3 +12,8 @@ https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.5.11 ,
 
 若要升級iTextPDF其它版本請參考
 https://github.com/itext/itextpdf/releases
+
+#### 使用說明：
+1. Clone 專案。
+2. 在專案下執行 gradlew jar。
+3. 取得產出的pdfkit4j-1.0.0.jar檔到Java 專案中即可使用。
